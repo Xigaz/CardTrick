@@ -15,6 +15,8 @@ public class Driver
 		
 		magic.startShow();
 		
+		System.out.println("Good Game!");
+		System.out.println("Word");
 		
 	}
 
